@@ -19,8 +19,8 @@ $packageList = @{
     wget = ""
     winpcap = ""
     wireshark = ""
-    vagrant = "2.2.6"
-    virtualbox = "6.1"
+    vagrant = ""
+    virtualbox = ""
     foxitreader = ""
     openssh = ""
     vlc = ""
@@ -30,7 +30,7 @@ $packageList = @{
     vscode = ""
     googlechrome = ""
     node = ""
-    
+
 
     
 }
