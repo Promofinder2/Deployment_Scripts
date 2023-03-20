@@ -11,6 +11,7 @@ $packageList = @{
     "powershell-core" = ""
     "winscp.install" = ""
     "docker-desktop" = ""
+    "nodejs.install" = ""
     wsl2 = ""
     golang = ""
     python = ""
@@ -29,10 +30,6 @@ $packageList = @{
     openssl = ""
     vscode = ""
     googlechrome = ""
-    node = ""
-
-
-    
 }
 
 function failIfNotAdministrator() {
