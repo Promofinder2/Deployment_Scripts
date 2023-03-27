@@ -30,6 +30,9 @@ $packageList = @{
     openssl = ""
     vscode = ""
     googlechrome = ""
+    postman = ""
+    sqlitebrowser = ""
+    firefox = ""
 }
 
 function failIfNotAdministrator() {
